@@ -23,36 +23,12 @@ export default function App() {
   const contactRef = React.createRef();
   const classes = useStyles();
 
-  const scrollToAbout = () => {
-    aboutRef.current.scrollIntoView({
-      behavior: 'smooth',
-      block: 'start',
-    });
-  };
-
-  const scrollToProject = () => {
-    projectRef.current.scrollIntoView({
-      behavior: 'smooth',
-      block: 'start',
-    });
-  };
-
-  const scrollToContact = () => {
-    contactRef.current.scrollIntoView({
-      behavior: 'smooth',
-      block: 'start',
-    });
-  };
-
   return (
     <ThemeProvider theme={theme}>
       <Box pb={10} className={classes.container}>
         <Box className={classes.components}>
           <Header/>
           <Nav
-          scrollToAbout={scrollToAbout}
-          scrollToProject={scrollToProject}
-          scrollToContact={scrollToContact}
           aboutRef={aboutRef}
           projectRef={projectRef}
           contactRef={contactRef}/>
