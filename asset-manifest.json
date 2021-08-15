@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/portfolio/static/js/main.e509e7af.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.e509e7af.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.bcd5af5a.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.bcd5af5a.js.map",
+    "static/js/2.40493e37.chunk.js": "/portfolio/static/js/2.40493e37.chunk.js",
+    "static/js/2.40493e37.chunk.js.map": "/portfolio/static/js/2.40493e37.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/js/2.40493e37.chunk.js.LICENSE.txt": "/portfolio/static/js/2.40493e37.chunk.js.LICENSE.txt",
+    "static/media/Resume.9a432249.pdf": "/portfolio/static/media/Resume.9a432249.pdf",
+    "static/media/congo_prime.81e44f6f.png": "/portfolio/static/media/congo_prime.81e44f6f.png",
+    "static/media/connect_four.42687521.gif": "/portfolio/static/media/connect_four.42687521.gif",
+    "static/media/fanime.69e4d6b6.gif": "/portfolio/static/media/fanime.69e4d6b6.gif",
+    "static/media/tattoo_art.5ebf7db7.gif": "/portfolio/static/media/tattoo_art.5ebf7db7.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bcd5af5a.js",
+    "static/js/2.40493e37.chunk.js",
+    "static/js/main.e509e7af.chunk.js"
+  ]
+}
