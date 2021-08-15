@@ -43,10 +43,10 @@ export default function Nav
       setLabel(0);
     } else if (window.scrollY >= aboutRef.current.offsetTop - 100 && window.scrollY < projectRef.current.offsetTop - 200) {
       setLabel(1);
+    } else if (window.scrollY >= contactRef.current.offsetTop - 100 || $(window).scrollTop + $(window).height() > $(document).height - 100) {
+      setLabel(3);
     } else if (window.scrollY >= projectRef.current.offsetTop - 100 && window.scrollY < contactRef.current.offsetTop - 200) {
       setLabel(2);
-    } else if (window.scrollY >= contactRef.current.offsetTop - 100) {
-      setLabel(3);
     }
   };
 
