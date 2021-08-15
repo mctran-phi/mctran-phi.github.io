@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/static/js/main.69a5a3fc.chunk.js",
-    "main.js.map": "/static/js/main.69a5a3fc.chunk.js.map",
+    "main.js": "/static/js/main.b30423b2.chunk.js",
+    "main.js.map": "/static/js/main.b30423b2.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.5ebc510a.js",
     "runtime-main.js.map": "/static/js/runtime-main.5ebc510a.js.map",
-    "static/js/2.e4db423e.chunk.js": "/static/js/2.e4db423e.chunk.js",
-    "static/js/2.e4db423e.chunk.js.map": "/static/js/2.e4db423e.chunk.js.map",
+    "static/js/2.40493e37.chunk.js": "/static/js/2.40493e37.chunk.js",
+    "static/js/2.40493e37.chunk.js.map": "/static/js/2.40493e37.chunk.js.map",
     "index.html": "/index.html",
-    "static/js/2.e4db423e.chunk.js.LICENSE.txt": "/static/js/2.e4db423e.chunk.js.LICENSE.txt",
+    "static/js/2.40493e37.chunk.js.LICENSE.txt": "/static/js/2.40493e37.chunk.js.LICENSE.txt",
     "static/media/Resume.9a432249.pdf": "/static/media/Resume.9a432249.pdf",
     "static/media/congo_prime.81e44f6f.png": "/static/media/congo_prime.81e44f6f.png",
     "static/media/connect_four.42687521.gif": "/static/media/connect_four.42687521.gif",
@@ -16,7 +16,7 @@
   },
   "entrypoints": [
     "static/js/runtime-main.5ebc510a.js",
-    "static/js/2.e4db423e.chunk.js",
-    "static/js/main.69a5a3fc.chunk.js"
+    "static/js/2.40493e37.chunk.js",
+    "static/js/main.b30423b2.chunk.js"
   ]
 }
