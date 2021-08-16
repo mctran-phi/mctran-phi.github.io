@@ -87,10 +87,13 @@ const Project = React.forwardRef((props, ref) => {
                 className={classes.button}>
                   Github
                 </a>
-                <div
+                <a
+                rel='noreferrer'
+                href='http://52.53.212.9/'
+                target='_blank'
                 className={classes.button}>
-                  Unavailable
-                </div>
+                  Demo
+                </a>
               </Box>
             </Box>
           </Grid>
