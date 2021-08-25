@@ -29,8 +29,8 @@ const useStyles = makeStyles(() => ({
     borderLeft: '1px solid lightgray',
   },
   image: {
-    width: '25vw',
-    height: '25vh',
+    width: '30vw',
+    height: '20vw',
     border: '0.5px solid gray',
     boxShadow: 'rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px',
   },
